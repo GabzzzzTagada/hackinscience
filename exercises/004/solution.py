@@ -1,3 +1,4 @@
-#!usr/bin/python
+#!/usr/bin/python
 
-print("zyxwvUtsrqp0nmlkjIhgfEdcbA")
+print("zyxwvUtsrqpOnmlkjIhgfEdcbA")
+
