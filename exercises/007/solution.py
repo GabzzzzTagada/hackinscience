@@ -1,2 +1,2 @@
 #!/usr/bin/python
-print("[Hello world]", 42)
+print("['Hello world', 42]")
