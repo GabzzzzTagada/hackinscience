@@ -1,3 +1,3 @@
-#!usr/share/python
+#!usr/bin/python
 
 print("zyxwvUtsrqp0nmlkjIhgfEdcbA")
