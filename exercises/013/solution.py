@@ -1,6 +1,6 @@
 #!/usr/bin/python
 x=2+2
-if (x==5):
-     print("False")
+if(x==5):
+    print("False")
 else:
-     print("True")
+    print("True")
