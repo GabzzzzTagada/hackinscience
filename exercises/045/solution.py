@@ -1,4 +1,6 @@
-import sys
+#!/usr/bin/python
 import math
-num = math.sqrt(argv[1])
-def sqrt(sqrt(num))
+num = math.sqrt
+def sqrt(num):
+    print(sqrt)
+sqrt(num)
