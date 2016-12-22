@@ -1,4 +1,4 @@
 #!/usr/bin/python
 x = range(1, 51)
-a = x + x
+a = list(x) + list(x)
 print(sum(a))
