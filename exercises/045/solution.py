@@ -1,3 +1,4 @@
 import sys
-num = argv[1]
+import math
+num = math.sqrt(argv[1])
 def sqrt(sqrt(num))
