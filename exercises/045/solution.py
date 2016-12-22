@@ -1,7 +1,6 @@
 #!/usr/bin/python
 import math
-import string
-num = int(string.digits)
+num = math.inf
 
 
 def sqrt(num):
