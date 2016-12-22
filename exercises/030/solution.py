@@ -1,3 +1,3 @@
 #!/usr/bin/python
-for i in range(1,101):
-    print(i)
+for x in range(1,51):
+    print(int(x + x))
