@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import math
-num = math.sqrt
-
+import string
+num = int(string.digits)
 
 def sqrt(num):
     print(sqrt)
