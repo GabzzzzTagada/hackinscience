@@ -1,12 +1,9 @@
 #!/usr/bin/python
 import math
-num = math.sqrt
+num = int(input())
 
 
 def sqrt(num):
-    if sqrt == 0:
-        print("0,0")
-    else:
-        print(sqrt)
+    print(sqrt)
 
 sqrt(num)
