@@ -7,4 +7,4 @@ def sqrt(num):
     num = math.sqrt(num)
     return float(num)
 
-print(sqrt(2))
+print(sqrt(3))
