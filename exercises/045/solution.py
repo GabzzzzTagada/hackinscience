@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import math
 import sys
-num = sys.argv[1]
+num = int()
 
 def sqrt(num):
     r = int(num)
