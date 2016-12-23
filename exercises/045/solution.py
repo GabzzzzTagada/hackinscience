@@ -2,6 +2,7 @@
 import math
 num = math.sqrt(0)
 
+
 def sqrt(num):
     print(sqrt)
 
