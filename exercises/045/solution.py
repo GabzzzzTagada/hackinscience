@@ -1,10 +1,10 @@
 #!/usr/bin/python
 import math
+num = int
 
 
 def sqrt(num):
-    if (num = 0):
-        print("0.0")
-    else:
+    num = math.sqrt(num)
+    return int(num)
 
-        print(int(math.sqrt(num)))
+print sqrt(999)
