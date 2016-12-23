@@ -1,10 +1,11 @@
 #!/usr/bin/python
 import math
-num = int
+num = input()
 
 
 def sqrt(num):
-    num = math.sqrt(num)
+    num = float(num)
+    num = (math.sqrt(num))
     return float(num)
 
-print(sqrt(3))
+print(sqrt(num))
