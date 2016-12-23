@@ -1,11 +1,9 @@
 #!/usr/bin/python
 import math
-import sys
-num = int()
+num=int(raw_input())
 
 
 def sqrt(num):
-    r = int(num)
-    t = r**0.5
+    math.sqrt(num)
     print(sqrt)
 sqrt(num)
