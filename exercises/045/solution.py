@@ -5,6 +5,6 @@ num = int
 
 def sqrt(num):
     num = math.sqrt(num)
-    return int(num)
+    return float(num)
 
-print sqrt(999)
+print(sqrt(2))
