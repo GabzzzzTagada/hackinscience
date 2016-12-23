@@ -1,6 +1,6 @@
 #!/usr/bin/python
 import math
-num = int(input())
+num = int()
 
 
 def sqrt(num):
