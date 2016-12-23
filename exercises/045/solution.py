@@ -6,6 +6,6 @@ num = int()
 
 def sqrt(num):
     r = int(num)
-    t = math.sqrt(r)
+    t = r**0,5
     print(sqrt)
 sqrt(num)
